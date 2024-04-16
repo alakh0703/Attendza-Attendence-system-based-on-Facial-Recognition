@@ -22,4 +22,4 @@ This application uses face recognition to manage sign-ins and sign-outs. It is i
 - **GUI**: Features a user-friendly GUI built with Tkinter for easy usage.
 
 ## Architecture
-![Architecture](architecture.png)
+![Architecture](architecture.jpg)
