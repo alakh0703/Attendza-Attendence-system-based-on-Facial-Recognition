@@ -19,7 +19,7 @@ This application uses face recognition to manage sign-ins and sign-outs. It is i
   - **AWS Rekognition**: Augments face recognition capabilities by providing additional image analysis features.
     
 - **Local Development**: The application can be run locally using Chalice, facilitating development and testing.
-- **GUI**: Features a user-friendly GUI built with Tkinter for easy usage.
+- **GUI**: Features a user-friendly GUI built with Tkinter for easy usage..
 
 ## Architecture
 ![Architecture](architecture.jpg)
